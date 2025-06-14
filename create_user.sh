@@ -1,5 +1,9 @@
 #!/bin/bash
 
+<< help
+This is the shell sctript to take the backup
+
+help
 
 
 echo " ================= started creation of the user===================="
@@ -18,4 +22,4 @@ echo "=====================deleted user========================"
 
 cat /etc/passwd | grep $username | wc
 
-echo " as wc is 0 user us deleted"
+echo " as wc is 0 user us deletedi"
