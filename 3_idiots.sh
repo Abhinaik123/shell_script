@@ -1,4 +1,4 @@
-#!/bin/bash
+## I am new here 
 
 #user defined variables
 hero="rancho"
